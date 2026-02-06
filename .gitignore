@@ -1,0 +1,10 @@
+build/
+*.o
+*.a
+experiment
+graph1_data.csv
+graph2_data.csv
+graph1_ft0_vs_nt.png
+graph2_E_Nt_sigma.png
+*.pyc
+__pycache__/
